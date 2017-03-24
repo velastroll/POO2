@@ -51,11 +51,11 @@ Abstracción: Será aplicable a *Producto* y a *Pack*.
 
 ## ProductoTest:
 Batería de pruebas para JUnit de la clase _Producto_.
-- [ ] Cambios al implementar Vendible.
+- [x] Cambios al implementar Vendible.
 
 
 
 ## Créditos:
 
-- [Álvaro Velasco] (https://github.com/Velastroll)
-- [Javier Helguera] (https://github.com/Helguera)
+- [Álvaro Velasco](https://github.com/Velastroll)
+- [Javier Helguera](https://github.com/Helguera)
